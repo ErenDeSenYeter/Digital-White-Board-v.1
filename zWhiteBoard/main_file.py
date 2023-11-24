@@ -5,7 +5,7 @@ import tkinter as tk
 import os
 
 #main
-root = Tk()
+root =Tk()
 root.title("White Board")
 root.geometry("1050x570+150+50")
 root.configure(bg="#f2f3f5")#background coolor
